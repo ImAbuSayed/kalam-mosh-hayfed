@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في ليالي الانتظار
+> قلبي ينادي من وراء الأسوار
+> أنت الروح وأنت كل الأمان
+> حبك في قلبي يعيش في كل مكان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
